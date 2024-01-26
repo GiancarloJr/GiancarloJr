@@ -1,6 +1,6 @@
 <b>Giancarlo Sena Martins Junior</b>
 
-- 🔭 Developer Backend Java
+- 🔭 Developer Full Stack
 - 🌱 Estudando Engenharia de Software
 
 <div align="center">
